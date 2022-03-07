@@ -1,4 +1,4 @@
 # pgo-tutorials
-<imie> <nazwisko>
-<nr grupy>
-<nr indeksu>
+Dawid Sadownik
+11c
+s24681
