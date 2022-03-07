@@ -1,0 +1,38 @@
+Klasy:
+-Person
+-Addres
+-Student
+-Professor
+
+Person{
+String name;
+String surname;
+int age;
+
+metoda string IntroduceYourself(){};--zwraca stringa,przyjmuje name,surname,age
+}
+
+Addres{
+String street;
+String city;
+String state;
+String postalCode;
+String country;
+
+Validate Output As Label zwraca boolean i przyjmuje powyższe dane
+
+}
+
+Student{
+String studentNumber;
+double avgMark;
+
+IsEligibleToEnroll zwraca boolean na bazie średniej ocen(przyjmuje avgMark);
+
+GetSeminarsTaken zwraca int a przyjmuje String;
+}
+
+Professor{
+double salary;
+}
+
