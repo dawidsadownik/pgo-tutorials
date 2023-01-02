@@ -20,7 +20,7 @@ String postalCode;
 String country;
 
 Validate Output As Label zwraca boolean i przyjmuje powyższe dane
-
+// komentarz tutaj
 }
 
 Student{
